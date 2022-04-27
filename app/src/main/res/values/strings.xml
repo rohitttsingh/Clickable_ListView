@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Day_4</string>
+    <array name="array_technology">
+        <item>Android</item>
+        <item>Kotlin</item>
+        <item>c++</item>
+        <item>c</item>
+        <item>Python</item>
+        <item>SQL</item>
+        <item>Java</item>
+        <item>Ae Rajaja</item>
+        <item>Swift4</item>
+        <item>Rohit singh</item>
+        <item>Javascript</item>
+        <item>Salman bhoi</item>
+        <item>Dhinchak pooja</item>
+        <item>Prashant </item>
+        <item>flutter</item>
+        <item>Sohail khan</item>
+        <item>Lovely paji </item>
+
+
+
+
+
+        <item>WebDevelopment</item>
+
+    </array>
+
+</resources>
